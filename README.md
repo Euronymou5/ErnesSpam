@@ -5,3 +5,5 @@ Un spammer para Whatsapp hecho en python
 **Actualmente solo se ha probado en Windows**
 
 **Primero se tendria que tener instalado [Python](https://www.python.org/downloads/)**
+**Antes de instalarlo marcaremos la casilla Add Python to path:**
+<img src="https://miro.medium.com/max/1344/0*7nOyowsPsGI19pZT.png">
