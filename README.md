@@ -8,8 +8,8 @@
 **Antes de instalarlo marcaremos la casilla Add Python to path:**
 <img src="https://miro.medium.com/max/1344/0*7nOyowsPsGI19pZT.png">
 
-
 **Despues de la instalacion abriremos la consola de Windows y escribiremos: pip install pyautogui**
+
 **Solo faltaria ejecutar el archivo ErnesSpam.py y a spamear!**
 
 # Imagenes
